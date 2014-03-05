@@ -7,4 +7,6 @@ Code returns :
 4) Periodicity 
 5) Spike train analysis 
 
-Include the .h files in the HHneuron(C file) with the correct path to run the code .  
+I)Include the .h files in the C files with the correct path according to your machine to run the code .  
+
+II)The paramters in both the .h files must be same .  
