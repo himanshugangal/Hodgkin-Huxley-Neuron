@@ -1,0 +1,10 @@
+The Hodgkin Huxley Neuron Model 
+
+Code returns : 
+1) Action Potential Values
+2) Poincare Analyses 
+3) Probability of opening of Gates
+4) Periodicity 
+5) Spike train analysis 
+
+Include the .h files in the HHneuron(C file) with the correct path to run the code .  
